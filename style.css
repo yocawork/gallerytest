@@ -132,5 +132,9 @@ h1 {
       height: 150px;
   }
 
-
+  .light-box img {
+    width: 80vw;
+    max-height: 80vh;
+  }
+  
 }

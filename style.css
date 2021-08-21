@@ -123,10 +123,10 @@ h1 {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
 
-  .close {
+  /* .close {
     top: 34%;
     right: 3%;
-  }
+  } */
 
   .galeria img {
       height: 150px;

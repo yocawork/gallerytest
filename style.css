@@ -97,8 +97,8 @@ h1 {
 .close {
   display: block;
   position: absolute;
-  top: 90px;
-  right: 295px;
+  top: 0;
+  right: 0;
   color: white;
   text-decoration: none;
   width: 30px;
@@ -123,11 +123,6 @@ h1 {
     grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   }
 
-  /* .close {
-    top: 34%;
-    right: 3%;
-  } */
-
   .galeria img {
       height: 150px;
   }
@@ -140,9 +135,6 @@ h1 {
 }
 
 @media screen and (min-width: 768px) {
-    .close {
-        top: 60%;
-        right: 10%;
-      }
+    
     
 }
